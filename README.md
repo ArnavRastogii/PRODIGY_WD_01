@@ -19,3 +19,5 @@ Technologies Used:
 HTML5: For the structural layout of the page.
 CSS3: For gradients, animations, and responsive styling.
 JavaScript: For interactivity and dynamic effects.
+
+🔗 Live Demo: [https://arnavrastogii.github.io/PRODIGY_WD_01/]
